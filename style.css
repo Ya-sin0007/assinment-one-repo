@@ -1,3 +1,131 @@
-h1{
-    color: rgb(58, 2, 53);
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.haif-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.haif-width img {
+    width: 80%;
+}
+
+.LINK-BUTTON {
+    text-decoration: none;
+    color: rgb(233, 233, 236);
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 10px 40px;
+    font-weight: 700;
+
+}
+
+p {
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+.top-bannar {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+: 10%;
 }
