@@ -6,11 +6,11 @@ h1 {
     font-size: 50px;
 }
 
-span {
+.orange-color {
     color: orange;
 }
 
-section {
+.flexable-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -44,7 +44,31 @@ p {
     background-repeat: no-repeat;
 }
 
+.exprience-item {
+    padding: 10px;
+    margin: 0 5%;
+    border-radius: 2%;
 
+    box-shadow: 0 4px 8px 0 rgba(51, 44, 44, 0.2), 0 6px 20px 0 rgba(48, 41, 41, 0.2);
+}
+
+#full-stack {
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(15, 3, 121), rgb(2, 129, 108));
+    border-image-slice: 1;
+}
+
+#baby-web {
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(13, 121, 3), rgb(94, 2, 89));
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+    color: rgb(1, 13, 24);
+    font-weight: bold;
+}
 
 
 
